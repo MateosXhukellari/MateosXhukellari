@@ -9,7 +9,7 @@
 I'm a computer science student at **FSHN (Fakulteti i Shkencave të Natyrës)** passionate about building full stack web applications from scratch. I don't just follow tutorials — I build real products with real use cases.
 
 Currently working on:
-- 🎟️ **Tiketa.al** — An Eventbrite-style event booking platform built specifically for Albania
+- 🎟️ **Bileta.al** — An Eventbrite-style event booking platform built specifically for Albania
 - 📄 **CVCraft** — An AI-powered resume builder that tailors CVs to job descriptions
 
 ---
