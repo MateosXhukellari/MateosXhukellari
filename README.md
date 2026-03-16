@@ -41,7 +41,7 @@ Currently working on:
 
 ## 📌 Featured Projects
 
-### 🎟️ [Tiketa.al](https://github.com/MateosXhukellari/tiketa-al) — Albanian Event Booking Platform
+### 🎟️ [Bileta.al](https://github.com/MateosXhukellari/tiketa-al) — Albanian Event Booking Platform
 > Eventbrite for Albania. Organizers list events, customers buy tickets, platform takes commission automatically.
 
 - **Stack:** React + TypeScript · Spring Boot · PostgreSQL · Stripe Connect
@@ -50,7 +50,7 @@ Currently working on:
 
 ---
 
-### 📄 [CVCraft](https://github.com/MateosXhukellari/cvcraft) — AI Resume Builder
+### 📄 [CareerAI](https://github.com/MateosXhukellari/cvcraft) — AI Resume Builder
 > Upload your master CV and a job description — AI tailors your resume automatically.
 
 - **Stack:** React + TypeScript · Spring Boot · Python AI Microservice
