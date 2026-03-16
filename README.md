@@ -10,7 +10,7 @@ I'm a computer science student at **FSHN (Fakulteti i Shkencave të Natyrës)** 
 
 Currently working on:
 - 🎟️ **Bileta.al** — An Eventbrite-style event booking platform built specifically for Albania
-- 📄 **CVCraft** — An AI-powered resume builder that tailors CVs to job descriptions
+- 📄 **CareerAI** — An AI-powered resume builder that tailors CVs to job descriptions
 
 ---
 
