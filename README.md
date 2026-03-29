@@ -41,7 +41,7 @@ Currently working on:
 
 ## 📌 Featured Projects
 
-### 🎟️ [Bileta.al]([https://github.com/MateosXhukellari/tiketa-al](https://bileta-al-frontend.vercel.app/)) — Albanian Event Booking Platform
+### 🎟️ [Bileta.al](https://bileta-al-frontend.vercel.app/) — Albanian Event Booking Platform
 > Eventbrite for Albania. Organizers list events, customers buy tickets, platform takes commission automatically.
 
 - **Stack:** React + TypeScript · Spring Boot · PostgreSQL · Stripe Connect
