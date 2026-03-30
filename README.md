@@ -59,6 +59,17 @@ Currently working on:
 
 ---
 
+---
+
+### 📄 [HealthCare+](https://health-care-frontend-pied.vercel.app/) — Online Appointment Booking For Health Related Problems
+> The user can book appointments and communicate with the doctor via inbuild chat messages or video call
+
+- **Stack:** React + TypeScript · NestJs
+- **Features:** Boooking Appointments · Chat Messages · Video Call
+- **Status:** 🔨 Completed
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="left">
