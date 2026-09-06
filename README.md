@@ -21,7 +21,7 @@ Java · Spring Boot · Spring Security · NestJS · C# / .NET · Rust · Node.js
 Docker · Kubernetes (k3s) · Argo Rollouts · ArgoCD (GitOps) · GitHub Actions · Traefik · Redis · Maven · Ubuntu / Debian Linux
 
 **Security**
-Keycloak · Trivy · Gitleaks · Semgrep · Checkov · Cloudflare · nmap
+Keycloak · Trivy · Gitleaks · Semgrep · Checkov · Cloudflare
 
 **QA & Testing**
 Playwright · Selenium · Cucumber · Postman
